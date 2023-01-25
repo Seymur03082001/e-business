@@ -9,25 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = e_business
 build_property.RootNamespace = e_business
-build_property.ProjectDir = C:\Users\Help\Desktop\e-business\e-business\
+build_property.ProjectDir = C:\Users\ca.r215.07\Desktop\e-business\e-business\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Help\Desktop\e-business\e-business
+build_property.MSBuildProjectDirectory = C:\Users\ca.r215.07\Desktop\e-business\e-business
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Help/Desktop/e-business/e-business/Views/Home/Index.cshtml]
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Areas/Manage/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEVtcGxveWVlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Areas/Manage/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEVtcGxveWVlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Areas/Manage/Views/Employee/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEVtcGxveWVlXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Areas/Manage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Areas/Manage/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Areas/Manage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Help/Desktop/e-business/e-business/Views/Shared/_Layout.cshtml]
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Help/Desktop/e-business/e-business/Views/_ViewImports.cshtml]
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Help/Desktop/e-business/e-business/Views/_ViewStart.cshtml]
+[C:/Users/ca.r215.07/Desktop/e-business/e-business/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -17,6 +17,10 @@ namespace e_business
             app.UseRouting();
 
             app.MapControllerRoute(
+                name: "areas",
+                pattern: "{area:exists}/{controller=Employee}/{action=Index}/{id?}");
+
+            app.MapControllerRoute(
                 "Default",
                 "{Controller=Home}/{Action=Index}/{id?}"
                 );
